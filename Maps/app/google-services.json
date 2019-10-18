@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "285775983624",
+    "firebase_url": "https://mapshomework-223507.firebaseio.com",
+    "project_id": "mapshomework-223507",
+    "storage_bucket": "mapshomework-223507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285775983624:android:fdd806b59e084851",
+        "android_client_info": {
+          "package_name": "com.example.manisha.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285775983624-lrn3menpa9thfashq7ta2pnl2j00a7s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manisha.maps",
+            "certificate_hash": "af9fb71c33424ed318613884eb3686957cb01f72"
+          }
+        },
+        {
+          "client_id": "285775983624-g29bj64gr271hih55bvfi9kv3fka2kur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpe3pladjfvm1DSItJHLB9PizGXhqh8K4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285775983624-g29bj64gr271hih55bvfi9kv3fka2kur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

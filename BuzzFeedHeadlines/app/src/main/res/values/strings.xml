@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuzzFeed Headlines</string>
+    <string name="publishedOn">Published On:</string>
+    <string name="Description">Description</string>
+    <string name="quit">Quit</string>
+    <string name="news">Loading news...</string>
+</resources>

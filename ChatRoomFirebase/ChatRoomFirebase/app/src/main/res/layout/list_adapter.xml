@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textViewMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="56dp"
+        android:layout_height="36dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="10dp"
+        android:background="@android:drawable/ic_menu_delete" />
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewMessage"
+        android:layout_alignBottom="@+id/buttonDelete"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="54dp"
+        android:layout_marginBottom="-41dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/textViewDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="76dp"
+        android:layout_marginEnd="39dp"
+        android:text="TextView"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageViewMesg"
+        android:layout_width="102dp"
+        android:layout_height="71dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="140dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="142dp" />
+
+</RelativeLayout>
